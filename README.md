@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently learning cybersecurity, low level debugging, Linux administration and more
+- I’m currently learning cybersecurity, low level debugging, Linux administration and more.
+- I mainly work on personal projects with my private git server some of which may/may not be shared here.
